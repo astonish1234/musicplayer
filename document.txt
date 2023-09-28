@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Ubuntu Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+
+  @font-face {
+  font-family: 'Mogra';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap
